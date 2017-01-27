@@ -1,1 +1,3 @@
 This is file 1, some edits in original Repo, this time dev branch
+
+ok, make some more chate to commit.. to test what a new clone might do :-p
