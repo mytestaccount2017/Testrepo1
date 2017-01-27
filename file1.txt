@@ -4,4 +4,5 @@ ok, make some more chate to commit.. to test what a new clone might do :-p
 
 change 1
 change 2
+change 3
 
