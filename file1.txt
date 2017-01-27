@@ -2,7 +2,4 @@ This is file 1, some edits in original Repo, this time dev branch
 
 ok, make some more chate to commit.. to test what a new clone might do :-p
 
-change 1
-change 2
-change 3
-
+change 1 B (after rollback & conflict resolution)
